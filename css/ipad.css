@@ -1,0 +1,53 @@
+/* Mobile & Full Site CSS3 Framework
+ipad.css:
+- View designed for iPad / similar tablets
+- Designed for orientation changes
+* Require style.css
+
+*/
+
+
+
+#menu {
+	width: 28%;
+	max-width: 260px;
+	float: left;
+	padding: 20px 10px;
+	background: none;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+}
+
+#menu ul {
+	border: 0;
+	padding: 10px;
+	border-radius: .6em .6em;
+	-moz-border-radius: .6em .6em;
+	margin-bottom: 20px;
+}
+#menu a {
+	clear: both;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+#contentcontainer {
+	width: 64%;
+	max-width: 690px;
+	float: right;
+}
+
+
+
+#footercontainer {
+	clear: both;
+}
+
+
+
+.sidebox {
+	display: block;
+}

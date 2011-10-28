@@ -1,0 +1,9 @@
+Mobile Skeleton
+==========================================
+Simple CSS and HTML layoud for a responsive website. Focus on developing mobile site first and then re-configures for larger screens. CSS is setup for 3 layouts: mobile, tablet, and desktop.
+
+Features
+------------------------------------------
+* No images, all CSS3
+* Mobile-first design method
+* Themeable
